@@ -4,7 +4,7 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 ## cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
 - in this workshop we will be going over how to clean the data
-- I previously collected the data
+- The data was previously collected so we can easily use it for this project
 
 If you are interested in the scripts I used to clean the data [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/tree/master/workshop3-cleaningData/data-collection) but we won't be going over that in this workshop
 ### Resources Used
