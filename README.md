@@ -17,4 +17,4 @@ This workshop is broken down into two parts
 - [Part 2](https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-iceid4vl/lab) In this part we will be coding from scratch how to clean the data
 
 ### Code used in the workshop
-- [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py)This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+- [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
