@@ -18,3 +18,21 @@ This workshop is broken down into two parts
 
 ### Code used in the workshop
 - [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+
+# Workshop 4
+This is the second part of our data science multi-week workshop. In this workshop we will be going over how to plot our data and analyze for our model building
+## Exploratory Data Analaysis
+- We will analyze our data for better understanding of the features and their correlation
+- We will use our previously cleaned data for this workshop
+
+### Resources Used
+- Pandas
+- Matplotlib
+- Seaborn
+- [Cleaned Data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Salary_Data_Cleaned.csv)
+
+### Let's get Started with the workshop!
+- [Jupyter Notebook](https://jupyter.org/try)
+
+### code Used in this workshop
+- [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
