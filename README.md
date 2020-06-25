@@ -36,3 +36,23 @@ This is the second part of our data science multi-week workshop. In this worksho
 
 ### code Used in this workshop
 - [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+
+# Workshop 5
+This is the third and final part to the data science multi-week project. In this workshop we will do create the train and test the models
+## Model Building
+- We will use the features we decided on in our EDA and create models that will predict how much someone will get payed based on job listing
+- The machine learning models we'll use are Linear Regression, Lasso Regression, and Random Forest
+ 
+ ### Resources used
+ - Pandas
+ - Matplotlib
+ - Numpy
+ - Sklearn
+ 
+ ### Let's get started with the workshop
+ - [Jupyter Notebook](https://jupyter.org/try)
+ - [Linear Regression](https://docs.google.com/presentation/d/1OE7mU9YThVaxI2YEwmZIL_7L9zrPfVJuMC2NchNdzqw/edit?usp=sharing)
+ - [Lasso Regression](google.com)
+ - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
+ ### Code Used in this workshop
+ - [Model Building](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop5-ModelBuilding/ModelBuilding.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
