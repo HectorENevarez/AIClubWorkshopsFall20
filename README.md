@@ -1,5 +1,6 @@
 # AIClubWorkshops
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
+
 # Workshop 3
 ## cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
