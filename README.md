@@ -12,8 +12,10 @@ In this wokrshop we will be going over the basics of using python
 - **Loops:** For loops and while loops, loop use case, looping through data structures
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
-- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Untitled.ipynb) to be taken to the advanced python workshopp<br>
+- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshopp<br>
 #### Beginner Python tutorial summary:
+- **modules:** Importing modules, giving modules an alias usnig "as"
+- **Functions:** defining a functions, arguements and parameters, arbitrary arguements, returning values
 
 # Workshop 3
 ## cleaning data
