@@ -1,6 +1,9 @@
 # AIClubWorkshops
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
-
+# Workshop 1
+### Python basic tutorial
+In this wokrshop we will be going over the basics of using python
+- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/python_tutorial.ipynb) to be taken to the beginner python workshop
 # Workshop 3
 ## cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
