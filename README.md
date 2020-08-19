@@ -4,6 +4,12 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 ### Python basic tutorial
 In this wokrshop we will be going over the basics of using python
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/python_tutorial.ipynb) to be taken to the beginner python workshop
+Beginner Python tutorial summary:
+- **Data Types:** Integer, Float, Complex, Boolean, and Strings
+- **List:** Overview of a list, list methods, iterating through lists
+- **Dictionaries:** Overview of a dictionary, dictionary methods, iterating through a dictionary
+- **If Statements:** Declaring if statements, if-else chains, if boolean statements
+- **Loops:** For loops and while loops, loop use case, looping through data structures
 # Workshop 3
 ## cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
