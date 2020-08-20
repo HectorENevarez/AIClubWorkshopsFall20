@@ -25,7 +25,7 @@ In this workshop we will be going over more advanced python concepts
 - in this workshop we will be going over how to clean the data
 - The data was previously collected so we can easily use it for this project
 
-If you are interested in the scripts I used to clean the data [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/tree/master/workshop3-cleaningData/data-collection) but we won't be going over that in this workshop
+If you are interested in the scripts I used to collect the data [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/tree/master/workshop3-cleaningData/data-collection) but we won't be going over that in this workshop
 ### Resources Used
 - Pandas
 - [GlassDoor data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-collection/glassdoor_job.csv) Make sure to download the data so we can use it for our workshop
