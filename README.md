@@ -16,6 +16,8 @@ In this workshop we will be going over more advanced python concepts
 #### Beginner Python tutorial summary:
 - **modules:** Importing modules, giving modules an alias usnig "as"
 - **Functions:** defining a functions, arguements and parameters, arbitrary arguements, returning values
+- **Lambda Functions:** Syntax, use case, if-else chains
+- **Main Function:** __name__ == "__main__", creating main function
 
 # Workshop 3
 ## cleaning data
