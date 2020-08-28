@@ -17,6 +17,7 @@ In this wokrshop we will be going over the basics of using python
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshopp<br>
+- [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 #### Beginner Python tutorial summary:
 - **modules:** Importing modules, giving modules an alias usnig "as"
 - **Functions:** defining a functions, arguements and parameters, arbitrary arguements, returning values
