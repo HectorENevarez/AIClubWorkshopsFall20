@@ -13,7 +13,7 @@ In this wokrshop we will be going over the basics of using python
 ### Activity
 - For this weeks activity we will be doing coding questions that apply our basic knowledge of the fundamentals we learned in workshop 1
 - [Sign up Here](https://www.hackerrank.com/sdsu-ai-club-a1) in order to get started with the workshop
-- [Hints](google.com): These hints will be useful to you solving the coding problems
+- [Hints](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/hints.ipynb): These hints will be useful to you solving the coding problems
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshopp<br>
