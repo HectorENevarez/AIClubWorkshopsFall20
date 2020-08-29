@@ -39,7 +39,7 @@ If you are interested in the scripts I used to collect the data [Click Here](htt
 ### Let's get started with the workshop!
 This workshop is broken down into two parts
 - [Part 1](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Pandas-Tutorial.ipynb) For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
-- [Part 2](https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-iceid4vl/lab) In this part we will be coding from scratch how to clean the data
+- [Part 2](https://colab.research.google.com/notebooks/intro.ipynb) In this part we will be coding from scratch how to clean the data
 
 ### Code used in the workshop
 - [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
@@ -57,7 +57,7 @@ This is the second part of our data science multi-week workshop. In this worksho
 - [Cleaned Data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Salary_Data_Cleaned.csv)
 
 ### Let's get Started with the workshop!
-- [Jupyter Notebook](https://jupyter.org/try)
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### code Used in this workshop
 - [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
@@ -75,7 +75,7 @@ This is the third and final part to the data science multi-week project. In this
  - Sklearn
  
  ### Let's get started with the workshop
- - [Jupyter Notebook](https://jupyter.org/try)
+ - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
  - [Linear Regression](https://docs.google.com/presentation/d/1OE7mU9YThVaxI2YEwmZIL_7L9zrPfVJuMC2NchNdzqw/edit?usp=sharing)
  - [Lasso Regression](google.com)
  - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
