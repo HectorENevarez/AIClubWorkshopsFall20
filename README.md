@@ -43,6 +43,7 @@ This workshop is broken down into two parts
 
 ### Code used in the workshop
 - [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+- [Reference Sheet](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/reference.ipynb) This reference sheet goes over all the pandas functions we used in depth for better understanding during the workshop
 
 # Workshop 4 (Data Science 2)
 This is the second part of our data science multi-week workshop. In this workshop we will be going over how to plot our data and analyze for our model building
