@@ -24,7 +24,8 @@ In this workshop we will be going over more advanced python concepts
 - **Lambda Functions:** Syntax, use case, if-else chains
 - **Main Function:** \_\_name__ == "\_\_main__", creating main function
 
-# Workshop 3
+# Workshop 3 (Data Science 1)
+Our goal with this 3 part workshop is to create a tool that can estimate software engineer salaries. The main purpose of this 3 part workshop is to develop and understand the different roles involved in a typical data science job.
 ## cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
 - in this workshop we will be going over how to clean the data
@@ -43,7 +44,7 @@ This workshop is broken down into two parts
 ### Code used in the workshop
 - [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
-# Workshop 4
+# Workshop 4 (Data Science 2)
 This is the second part of our data science multi-week workshop. In this workshop we will be going over how to plot our data and analyze for our model building
 ## Exploratory Data Analaysis
 - We will analyze our data for better understanding of the features and their correlation
@@ -61,7 +62,7 @@ This is the second part of our data science multi-week workshop. In this worksho
 ### code Used in this workshop
 - [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
-# Workshop 5
+# Workshop 5 (Data Science 3)
 This is the third and final part to the data science multi-week project. In this workshop we will do create the train and test the models
 ## Model Building
 - We will use the features we decided on in our EDA and create models that will predict how much someone will get payed based on job listing
