@@ -6,8 +6,6 @@ import numpy as np
 #global
 x,y,k = 200,200,-1
 
-cap = cv2.VideoCapture(0)
-
 def take_inp(event, x1, y1, flag, param):
     global x, y, k
     if event == cv2.EVENT_LBUTTONDOWN:
@@ -17,6 +15,7 @@ def take_inp(event, x1, y1, flag, param):
 
 cv2.namedWindow("enter_point")
 cv2.setMouseCallback("enter_point", take_inp)
+cap = cv2.VideoCapture(0)
 
 while True:
      
@@ -33,8 +32,6 @@ while True:
 stp = 0
 
 old_pts = np.array([[x, y]], dtype=np.float32).reshape(-1,1,2)
-
-
 mask = np.zeros_like(inp_img)
 
 while True:
@@ -51,7 +48,7 @@ while True:
     for i, j in zip(old_pts, new_pts):
         x,y = j.ravel()
         a,b = i.ravel()
-        if cv2.waitKey(2) & 0xff == ord('q'):
+        if cv2.waitKey(2) & 0xff == ord('p'):
             stp = 1
             
         elif cv2.waitKey(2) & 0xff == ord('w'):
@@ -61,12 +58,12 @@ while True:
             mask = np.zeros_like(new_inp_img)
             
         if stp == 0:
-            mask = cv2.line(mask, (a,b), (x,y), (0,0,255), 6)
+            mask = cv2.line(mask, (a,b), (x,y), (255,255,255), 10) #Color of line
 
         cv2.circle(new_inp_img, (x,y), 6, (0,255,0), -1)
     
     new_inp_img = cv2.addWeighted(mask, 0.3, new_inp_img, 0.7, 0)
-    cv2.putText(mask, "'q' to gap 'w' - start 'n' - clear", (10,50), 
+    cv2.putText(new_inp_img, "'p' to gap 'w' - start 'n' - clear", (10,50), 
                 cv2.FONT_HERSHEY_PLAIN, 2, (255,255,255))
     cv2.imshow("ouput", new_inp_img)
     cv2.imshow("result", mask)
@@ -76,6 +73,7 @@ while True:
     old_pts = new_pts.reshape(-1,1,2)
     
     if cv2.waitKey(1) & 0xff == 27:
+        cv2.imwrite('Test.png', mask)
         break
 
 cv2.destroyAllWindows()
