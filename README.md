@@ -16,7 +16,7 @@ In this wokrshop we will be going over the basics of using python
 - [Hints](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/hints.ipynb): These hints will be useful to you solving the coding problems
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
-- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshopp<br>
+- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshop<br>
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 #### Beginner Python tutorial summary:
 - **modules:** Importing modules, giving modules an alias usnig "as"
