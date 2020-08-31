@@ -82,3 +82,30 @@ This is the third and final part to the data science multi-week project. In this
  - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
  ### Code Used in this workshop
  - [Model Building](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop5-ModelBuilding/ModelBuilding.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+
+# Workshop 6 (Computer Vision 1)
+This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
+## Opencv basic tutorial
+In this workshop we will be going over the basic functions of opencv
+- [Opencv Workshop](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/opencv_tut.ipynb)
+
+## Resources used
+- Opencv
+- imutils
+- matplotlib
+- [Tetris Image](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/tetris_blocks.png)
+- [Reference Sheet](google.com)
+
+## Beginner opencv tutorial summary:
+- Loading images
+- Cropping images
+- resizing images
+- rotating images
+- **Drawing on images:** rectangle, circle, line, and text
+
+## Activity
+- In this activity we will be detecting objects on an image through the use of various built in opencv functions
+- [Click here](https://colab.research.google.com) to be taken to google colab in order to get started
+
+## Code Used
+- [Object Detection](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/object_detect.ipynb) This is the script we coded during this workshop just incase you need to look over it after the workshop 
