@@ -1,7 +1,16 @@
 # AIClubWorkshops
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
+
+# Table of Contents
+- [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops#workshop-1)
+- [Workshop 2: Advanced Python](https://github.com/HectorENevarez/AIClubWorkshops#workshop-2)
+- [Workshop 3: Cleaning Data (Data Science 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-3-data-science-1)
+- [Workshop 4: Exploratory Data Analysis (Data Science 2)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-4-data-science-2)
+- [Workshop 5: Model Building (Data Science 3)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-5-data-science-3)
+- [Workshop 6: Opencv Introduction]()
+
 # Workshop 1
-### Python basic tutorial
+### Python Introduction
 In this wokrshop we will be going over the basics of using python
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/python_tutorial.ipynb) to be taken to the beginner python workshop<br>
 #### Beginner Python tutorial summary:
@@ -18,7 +27,7 @@ In this wokrshop we will be going over the basics of using python
 In this workshop we will be going over more advanced python concepts
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshop<br>
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
-#### Beginner Python tutorial summary:
+#### Advanced Python tutorial summary:
 - **modules:** Importing modules, giving modules an alias usnig "as"
 - **Functions:** defining a functions, arguements and parameters, arbitrary arguements, returning values
 - **Lambda Functions:** Syntax, use case, if-else chains
