@@ -4,6 +4,7 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 
 # Table of Contents
 - [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop1)
+* TOC {:toc}
 - [Workshop 2: Advanced Python](https://github.com/HectorENevarez/AIClubWorkshops#workshop-2)
 - [Workshop 3: Cleaning Data (Data Science 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-3-data-science-1)
 - [Workshop 4: Exploratory Data Analysis (Data Science 2)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-4-data-science-2)
