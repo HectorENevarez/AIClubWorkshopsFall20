@@ -19,14 +19,17 @@ In this workshop we will be going over the basics of using python
 - **List:** Overview of a list, list methods, iterating through lists
 - **Dictionaries:** Overview of a dictionary, dictionary methods, iterating through a dictionary
 - **If Statements:** Declaring if statements, if-else chains, if boolean statements
+
 ### Activity
 - For this weeks activity we will be doing coding questions that apply our basic knowledge of the fundamentals we learned in workshop 1
 - [Sign up Here](https://www.hackerrank.com/sdsu-ai-club-a1) in order to get started with the activity
 - [Hints](https://hectorenevarez.github.io/AIClubWorkshops/Workshop1/hints): These hints will be useful to you solving the coding problems
+
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshop<br>
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
+
 ### Advanced Python tutorial summary:
 - **Loops:** For loops and while loops, loop use case, looping through data structures
 - **modules:** Importing modules, giving modules an alias usnig "as"
@@ -36,12 +39,14 @@ In this workshop we will be going over more advanced python concepts
 
 # Workshop 3 (Data Science 1)
 Our goal with this 3 part workshop is to create a tool that can estimate software engineer salaries. The main purpose of this 3 part workshop is to develop and understand the different roles involved in a typical data science job.
+
 ### cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
 - in this workshop we will be going over how to clean the data
 - The data was previously collected so we can easily use it for this project
 
 If you are interested in the scripts I used to collect the data [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/tree/master/workshop3-cleaningData/data-collection) but we won't be going over that in this workshop
+
 ### Resources Used
 - Pandas
 - [GlassDoor data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-collection/glassdoor_job.csv) Make sure to download the data so we can use it for our workshop
