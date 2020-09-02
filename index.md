@@ -40,7 +40,7 @@ In this workshop we will be going over more advanced python concepts
 # Workshop 3 (Data Science 1)
 Our goal with this 3 part workshop is to create a tool that can estimate software engineer salaries. The main purpose of this 3 part workshop is to develop and understand the different roles involved in a typical data science job.
 
-### cleaning data
+### Cleaning data
 - Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
 - in this workshop we will be going over how to clean the data
 - The data was previously collected so we can easily use it for this project
@@ -54,11 +54,11 @@ If you are interested in the scripts I used to collect the data [Click Here](htt
 
 ### Let's get started with the workshop!
 This workshop is broken down into two parts
-- [Part 1](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Pandas-Tutorial.ipynb) For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
-- [Part 2](https://colab.research.google.com/notebooks/intro.ipynb) In this part we will be coding from scratch how to clean the data
+- [Part 1](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Pandas-Tutorial.ipynb): For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
+- [Part 2](https://colab.research.google.com/notebooks/intro.ipynb): In this part we will be coding from scratch how to clean the data
 
 ### Code used in the workshop
-- [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+- [Data Cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 4 (Data Science 2)
 This is the second part of our data science multi-week workshop. In this workshop we will be going over how to plot our data and analyze for our model building
@@ -75,8 +75,8 @@ This is the second part of our data science multi-week workshop. In this worksho
 ### Let's get Started with the workshop!
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
-### code Used in this workshop
-- [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+### Code Used in this workshop
+- [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 5 (Data Science 3)
 This is the third and final part to the data science multi-week project. In this workshop we will do create the train and test the models
@@ -95,8 +95,9 @@ This is the third and final part to the data science multi-week project. In this
  - [Linear Regression](https://docs.google.com/presentation/d/1OE7mU9YThVaxI2YEwmZIL_7L9zrPfVJuMC2NchNdzqw/edit?usp=sharing)
  - [Lasso Regression](google.com)
  - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
+ 
 ### Code Used in this workshop
- - [Model Building](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop5-ModelBuilding/ModelBuilding.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+ - [Model Building](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop5-ModelBuilding/ModelBuilding.ipynb): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 6 (Computer Vision 1)
 This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
