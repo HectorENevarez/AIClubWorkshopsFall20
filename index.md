@@ -1,6 +1,6 @@
 # AIClubWorkshops
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
-
+* TOC
 # Table of Contents
 - [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop1)
 - [Workshop 2: Advanced Python](https://github.com/HectorENevarez/AIClubWorkshops#workshop-2)
