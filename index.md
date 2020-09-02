@@ -13,7 +13,7 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 ### Python Introduction
 In this workshop we will be going over the basics of using python
 - [Click Here](https://hectorenevarez.github.io/AIClubWorkshops/Workshop1/python_tutorial) to be taken to the beginner python workshop
-<br>
+
 ### Beginner Python tutorial summary:
 - **Data Types:** Integer, Float, Complex, Boolean, and Strings
 - **List:** Overview of a list, list methods, iterating through lists
