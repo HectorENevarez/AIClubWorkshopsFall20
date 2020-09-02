@@ -1,17 +1,36 @@
 # AIClubWorkshops
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
 
+- [Table of Contents](#table-of-contents)
+- [Workshop 1](#workshop-1)
+    + [Python Introduction](#python-introduction)
+    + [Beginner Python tutorial summary:](#beginner-python-tutorial-summary-)
+    + [Activity](#activity)
+- [Workshop 2](#workshop-2)
+    + [Advanced Python tutorial summary:](#advanced-python-tutorial-summary-)
+- [Workshop 3 (Data Science 1)](#workshop-3--data-science-1-)
+    + [Cleaning data](#cleaning-data)
+    + [Resources Used](#resources-used)
+    + [Let's get started with the workshop!](#let-s-get-started-with-the-workshop-)
+    + [Code used in the workshop](#code-used-in-the-workshop)
+- [Workshop 4 (Data Science 2)](#workshop-4--data-science-2-)
+    + [Exploratory Data Analaysis](#exploratory-data-analaysis)
+    + [Resources Used](#resources-used-1)
+    + [Let's get Started with the workshop!](#let-s-get-started-with-the-workshop-)
+    + [Code Used in this workshop](#code-used-in-this-workshop)
+- [Workshop 5 (Data Science 3)](#workshop-5--data-science-3-)
+    + [Model Building](#model-building)
+    + [Resources used](#resources-used)
+    + [Let's get started with the workshop](#let-s-get-started-with-the-workshop)
+    + [Code Used in this workshop](#code-used-in-this-workshop-1)
+- [Workshop 6 (Computer Vision 1)](#workshop-6--computer-vision-1-)
+    + [Opencv basic tutorial](#opencv-basic-tutorial)
+    + [Resources used](#resources-used-1)
+    + [Beginner opencv tutorial summary:](#beginner-opencv-tutorial-summary-)
+    + [Activity](#activity-1)
+    + [Code Used](#code-used)
 
-# Table of Contents
-
-{:toc}
-
-- [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop1)
-- [Workshop 2: Advanced Python](https://github.com/HectorENevarez/AIClubWorkshops#workshop-2)
-- [Workshop 3: Cleaning Data (Data Science 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-3-data-science-1)
-- [Workshop 4: Exploratory Data Analysis (Data Science 2)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-4-data-science-2)
-- [Workshop 5: Model Building (Data Science 3)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-5-data-science-3)
-- [Workshop 6: Opencv Introduction (Computer Vision 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-6-computer-vision-1)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
 # Workshop 1
 ### Python Introduction
