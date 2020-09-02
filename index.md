@@ -2,13 +2,15 @@
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
 
 
-# Table of Contents
-- [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop1)* TOC {:toc}
+# Table of Contents.
+* TOC
+- [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop1)
 - [Workshop 2: Advanced Python](https://github.com/HectorENevarez/AIClubWorkshops#workshop-2)
 - [Workshop 3: Cleaning Data (Data Science 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-3-data-science-1)
 - [Workshop 4: Exploratory Data Analysis (Data Science 2)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-4-data-science-2)
 - [Workshop 5: Model Building (Data Science 3)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-5-data-science-3)
 - [Workshop 6: Opencv Introduction (Computer Vision 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-6-computer-vision-1)
+{:toc}
 
 # Workshop 1
 ### Python Introduction
