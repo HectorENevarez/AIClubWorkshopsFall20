@@ -8,8 +8,7 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 - [Workshop 4: Exploratory Data Analysis (Data Science 2)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-4-data-science-2)
 - [Workshop 5: Model Building (Data Science 3)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-5-data-science-3)
 - [Workshop 6: Opencv Introduction (Computer Vision 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-6-computer-vision-1)
-* TOC
-{:toc}
+* TOC {:toc}
 
 # Workshop 1
 ### Python Introduction
