@@ -3,7 +3,7 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 
 - [Table of Contents](#table-of-contents)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
