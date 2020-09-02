@@ -18,7 +18,6 @@ In this wokrshop we will be going over the basics of using python
 - **List:** Overview of a list, list methods, iterating through lists
 - **Dictionaries:** Overview of a dictionary, dictionary methods, iterating through a dictionary
 - **If Statements:** Declaring if statements, if-else chains, if boolean statements
-- **Loops:** For loops and while loops, loop use case, looping through data structures
 ### Activity
 - For this weeks activity we will be doing coding questions that apply our basic knowledge of the fundamentals we learned in workshop 1
 - [Sign up Here](https://www.hackerrank.com/sdsu-ai-club-a1) in order to get started with the activity
@@ -28,6 +27,7 @@ In this workshop we will be going over more advanced python concepts
 - [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshop<br>
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 ### Advanced Python tutorial summary:
+- **Loops:** For loops and while loops, loop use case, looping through data structures
 - **modules:** Importing modules, giving modules an alias usnig "as"
 - **Functions:** defining a functions, arguements and parameters, arbitrary arguements, returning values
 - **Lambda Functions:** Syntax, use case, if-else chains
