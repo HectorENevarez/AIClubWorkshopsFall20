@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
+# AIClubWorkshops
+This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
 
-You can use the [editor on GitHub](https://github.com/HectorENevarez/AIClubWorkshops/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Table of Contents
+- [Workshop 1: Python Introduction](https://github.com/HectorENevarez/AIClubWorkshops#workshop-1)
+- [Workshop 2: Advanced Python](https://github.com/HectorENevarez/AIClubWorkshops#workshop-2)
+- [Workshop 3: Cleaning Data (Data Science 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-3-data-science-1)
+- [Workshop 4: Exploratory Data Analysis (Data Science 2)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-4-data-science-2)
+- [Workshop 5: Model Building (Data Science 3)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-5-data-science-3)
+- [Workshop 6: Opencv Introduction (Computer Vision 1)](https://github.com/HectorENevarez/AIClubWorkshops#workshop-6-computer-vision-1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Workshop 1
+### Python Introduction
+In this wokrshop we will be going over the basics of using python
+- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/python_tutorial.ipynb) to be taken to the beginner python workshop<br>
+### Beginner Python tutorial summary:
+- **Data Types:** Integer, Float, Complex, Boolean, and Strings
+- **List:** Overview of a list, list methods, iterating through lists
+- **Dictionaries:** Overview of a dictionary, dictionary methods, iterating through a dictionary
+- **If Statements:** Declaring if statements, if-else chains, if boolean statements
+### Activity
+- For this weeks activity we will be doing coding questions that apply our basic knowledge of the fundamentals we learned in workshop 1
+- [Sign up Here](https://www.hackerrank.com/sdsu-ai-club-a1) in order to get started with the activity
+- [Hints](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop1-Python_One/hints.ipynb): These hints will be useful to you solving the coding problems
+# Workshop 2
+In this workshop we will be going over more advanced python concepts
+- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshop<br>
+- [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
+### Advanced Python tutorial summary:
+- **Loops:** For loops and while loops, loop use case, looping through data structures
+- **modules:** Importing modules, giving modules an alias usnig "as"
+- **Functions:** defining a functions, arguements and parameters, arbitrary arguements, returning values
+- **Lambda Functions:** Syntax, use case, if-else chains
+- **Main Function:** \_\_name__ == "\_\_main__", creating main function
 
-### Markdown
+# Workshop 3 (Data Science 1)
+Our goal with this 3 part workshop is to create a tool that can estimate software engineer salaries. The main purpose of this 3 part workshop is to develop and understand the different roles involved in a typical data science job.
+### cleaning data
+- Data collection and data cleaning are said to be the most important and time consuming parts of a data scientists role
+- in this workshop we will be going over how to clean the data
+- The data was previously collected so we can easily use it for this project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are interested in the scripts I used to collect the data [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/tree/master/workshop3-cleaningData/data-collection) but we won't be going over that in this workshop
+### Resources Used
+- Pandas
+- [GlassDoor data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-collection/glassdoor_job.csv) Make sure to download the data so we can use it for our workshop
+- [Reference Sheet](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/reference.ipynb) This reference sheet goes over all the pandas functions we used in depth for better understanding during the workshop
 
-```markdown
-Syntax highlighted code block
+### Let's get started with the workshop!
+This workshop is broken down into two parts
+- [Part 1](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Pandas-Tutorial.ipynb) For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
+- [Part 2](https://colab.research.google.com/notebooks/intro.ipynb) In this part we will be coding from scratch how to clean the data
 
-# Header 1
-## Header 2
-### Header 3
+### Code used in the workshop
+- [data cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
-- Bulleted
-- List
+# Workshop 4 (Data Science 2)
+This is the second part of our data science multi-week workshop. In this workshop we will be going over how to plot our data and analyze for our model building
+### Exploratory Data Analaysis
+- We will analyze our data for better understanding of the features and their correlation
+- We will use our previously cleaned data for this workshop
 
-1. Numbered
-2. List
+### Resources Used
+- Pandas
+- Matplotlib
+- Seaborn
+- [Cleaned Data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Salary_Data_Cleaned.csv)
 
-**Bold** and _Italic_ and `Code` text
+### Let's get Started with the workshop!
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
-[Link](url) and ![Image](src)
-```
+### code Used in this workshop
+- [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Workshop 5 (Data Science 3)
+This is the third and final part to the data science multi-week project. In this workshop we will do create the train and test the models
+### Model Building
+- We will use the features we decided on in our EDA and create models that will predict how much someone will get payed based on job listing
+- The machine learning models we'll use are Linear Regression, Lasso Regression, and Random Forest
+ 
+### Resources used
+ - Pandas
+ - Matplotlib
+ - Numpy
+ - Sklearn
+ 
+### Let's get started with the workshop
+ - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+ - [Linear Regression](https://docs.google.com/presentation/d/1OE7mU9YThVaxI2YEwmZIL_7L9zrPfVJuMC2NchNdzqw/edit?usp=sharing)
+ - [Lasso Regression](google.com)
+ - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
+### Code Used in this workshop
+ - [Model Building](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop5-ModelBuilding/ModelBuilding.ipynb) This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
-### Jekyll Themes
+# Workshop 6 (Computer Vision 1)
+This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
+### Opencv basic tutorial
+In this workshop we will be going over the basic functions of opencv
+- [Opencv Workshop](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/opencv_tut.ipynb)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HectorENevarez/AIClubWorkshops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Resources used
+- Opencv
+- imutils
+- matplotlib
+- [Tetris Image](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/tetris_blocks.png)
+- [Reference Sheet](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/Reference.ipynb)
 
-### Support or Contact
+### Beginner opencv tutorial summary:
+- Loading images
+- Cropping images
+- resizing images
+- rotating images
+- **Drawing on images:** rectangle, circle, line, and text
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Activity
+- In this activity we will be detecting objects on an image through the use of various built in opencv functions
+- [Click here](https://colab.research.google.com) to be taken to google colab in order to get started
+
+### Code Used
+- [Object Detection](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/object_detect.ipynb) This is the script we coded during this workshop just incase you need to look over it after the workshop 
