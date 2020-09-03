@@ -4,7 +4,7 @@ This repo houses the various workshops we will be going over for SDSU's AI club 
 # Table of Contents
 - [Workshop 1](#workshop-1)
     + [Python Introduction](#python-introduction)
-    + [Beginner Python tutorial summary:](#beginner-python-tutorial-summary-)
+    + [Beginner Python tutorial summary:](#beginner-python-tutorial-summary)
     + [Activity](#activity)
 - [Workshop 2](#workshop-2)
     + [Advanced Python tutorial summary:](#advanced-python-tutorial-summary-)
