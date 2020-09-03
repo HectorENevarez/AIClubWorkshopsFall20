@@ -50,7 +50,7 @@ In this workshop we will be going over the basics of using python
 
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
-- [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop2-Python_Two/Advanced_python.ipynb) to be taken to the advanced python workshop<br>
+- [Click Here](https://hectorenevarez.github.io/AIClubWorkshops/Workshop2/advanced_python.html) to be taken to the advanced python workshop<br>
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### Advanced Python tutorial summary:
@@ -73,11 +73,11 @@ If you are interested in the scripts I used to collect the data [Click Here](htt
 ### Resources Used
 - Pandas
 - [GlassDoor data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-collection/glassdoor_job.csv) Make sure to download the data so we can use it for our workshop
-- [Reference Sheet](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/reference.ipynb) This reference sheet goes over all the pandas functions we used in depth for better understanding during the workshop
+- [Reference Sheet](https://hectorenevarez.github.io/AIClubWorkshops/Workshop3/reference) This reference sheet goes over all the pandas functions we used in depth for better understanding during the workshop
 
 ### Let's get started with the workshop!
 This workshop is broken down into two parts
-- [Part 1](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Pandas-Tutorial.ipynb): For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
+- [Part 1](https://hectorenevarez.github.io/AIClubWorkshops/Workshop3/pandas_tutorial): For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
 - [Part 2](https://colab.research.google.com/notebooks/intro.ipynb): In this part we will be coding from scratch how to clean the data
 
 ### Code used in the workshop
@@ -99,7 +99,7 @@ This is the second part of our data science multi-week workshop. In this worksho
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### Code Used in this workshop
-- [Explortatory Data Analysis](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/Exploratory_Data_Analysis.ipynb): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+- [Explortatory Data Analysis](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/eda): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 5 (Data Science 3)
 This is the third and final part to the data science multi-week project. In this workshop we will do create the train and test the models
@@ -126,14 +126,14 @@ This is the third and final part to the data science multi-week project. In this
 This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
 ### Opencv basic tutorial
 In this workshop we will be going over the basic functions of opencv
-- [Opencv Workshop](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/opencv_tut.ipynb)
+- [Opencv Workshop](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/opencv_tut)
 
 ### Resources used
 - Opencv
 - imutils
 - matplotlib
 - [Tetris Image](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/tetris_blocks.png)
-- [Reference Sheet](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/Reference.ipynb)
+- [Reference Sheet](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/Reference)
 
 ### Beginner opencv tutorial summary:
 - Loading images
@@ -147,4 +147,4 @@ In this workshop we will be going over the basic functions of opencv
 - [Click here](https://colab.research.google.com) to be taken to google colab in order to get started
 
 ### Code Used
-- [Object Detection](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/object_detect.ipynb) This is the script we coded during this workshop just incase you need to look over it after the workshop 
+- [Object Detection](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/object_detection) This is the script we coded during this workshop just incase you need to look over it after the workshop 
