@@ -2,7 +2,7 @@
 This repo houses the various workshops we will be going over for SDSU's AI club for the fall 2020 semester
 
 # Table of Contents
-- [Workshop 1](#workshop-1)</summary>
+- [Workshop 1](#workshop-1)
     + [Python Introduction](#python-introduction)
     + [Beginner Python tutorial summary:](#beginner-python-tutorial-summary-)
     + [Activity](#activity)
