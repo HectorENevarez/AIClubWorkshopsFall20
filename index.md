@@ -1,3 +1,7 @@
+# General Information
+For more information regarding our club please visit the official [SDSU AI Club webstite](https://aiclub.sdsu.edu/)<br>
+For further information regarding the workshops you can contact me through my email: <hnevarez1285@outlook.com>
+
 # Table of Contents
 - [Workshop 1](#workshop-1)
 - [Workshop 2](#workshop-2)
