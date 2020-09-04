@@ -4,8 +4,8 @@
 - For general club questions you can contact our club email: <sdsuaiclub@gmail.com>
 
 # Table of Contents
-- [Workshop 1](#workshop-1)
-- [Workshop 2](#workshop-2)
+- [Workshop 1 (Python 1)](#workshop-1)
+- [Workshop 2 (Python 2)](#workshop-2)
 - [Workshop 3 (Data Science 1)](#workshop-3-data-science-1)
 - [Workshop 4 (Data Science 2)](#workshop-4-data-science-2)
 - [Workshop 5 (Data Science 3)](#workshop-5-data-science-3)
