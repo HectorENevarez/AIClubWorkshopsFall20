@@ -68,11 +68,13 @@ This is the second part of our data science multi-week workshop. In this worksho
 ### Resources Used
 - Pandas
 - Matplotlib
-- Seaborn
+- Numpy
 - [Cleaned Data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Salary_Data_Cleaned.csv)
 
 ### Let's get Started with the workshop!
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+- [Numpy](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/plt_sns_tut#Numpy) First we're going to go over the numpy library to become familiar with numpy arrays
+- [Matplotlib](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/plt_sns_tut#Matplotlib) Next, we'll go over matplotlibs pyplot module in order to develop an understanding for how we'll use our data to perform exploratory data anlysis
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) Finally we will analyze our data using both numpy and matplotlib in order to create graphs that will help us understand relationships between our data
 
 ### Code Used in this workshop
 - [Explortatory Data Analysis](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/eda): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
