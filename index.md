@@ -90,6 +90,7 @@ This is the third and final part to the data science multi-week project. In this
  - Matplotlib
  - Numpy
  - Sklearn
+ - [Reference Sheet]()
  
 ### Let's get started with the workshop
  - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
@@ -98,7 +99,7 @@ This is the third and final part to the data science multi-week project. In this
  - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
  
 ### Code Used in this workshop
- - [Model Building](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop5-ModelBuilding/ModelBuilding.ipynb): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+ - [Model Building](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/modelbuilding): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 6 (Computer Vision 1)
 This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
