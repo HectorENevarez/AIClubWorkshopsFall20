@@ -67,6 +67,8 @@ This is the second part of our data science multi-week workshop. In this worksho
 - [Cleaned Data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/Salary_Data_Cleaned.csv)
 
 ### Let's get Started with the workshop!
+- [numpy](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/plt_sns_tut.ipynb) First we're going to go over a quick introduction into numpy
+- [matplotlib](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop4-EDA/plt_sns_tut.ipynb) Next we'll move on to an introduction into matplotlib
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### code Used in this workshop
