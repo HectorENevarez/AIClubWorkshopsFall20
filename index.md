@@ -31,7 +31,7 @@ In this workshop we will be going over the basics of using python
 
 # Workshop 2
 In this workshop we will be going over more advanced python concepts
-- [Click Here](https://hectorenevarez.github.io/AIClubWorkshops/Workshop2/advanced_python.html) to be taken to the advanced python workshop<br>
+- [Click Here](https://hectorenevarez.github.io/AIClubWorkshops/Workshop2/Advanced_python.html) to be taken to the advanced python workshop<br>
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### Advanced Python tutorial summary:
