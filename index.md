@@ -51,18 +51,18 @@ Our goal with this 3 part workshop is to create a tool that can estimate softwar
 
 If you are interested in the scripts I used to collect the data [Click Here](https://github.com/HectorENevarez/AIClubWorkshops/tree/master/workshop3-cleaningData/data-collection) but we won't be going over that in this workshop
 
+### Let's get started with the workshop!
+This workshop is broken down into two parts
+- [Part 1](https://hectorenevarez.github.io/AIClubWorkshops/Workshop3/pandas_tutorial): For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
+- [Part 2](https://colab.research.google.com/drive/1T9qbWtNIG-AwLoF4Uwbp9EoNwLSP9Vlu?usp=sharing): In this part we will be coding from scratch how to clean the data
+
 ### Resources Used
 - Pandas
 - [GlassDoor data](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-collection/glassdoor_job.csv) Make sure to download the data so we can use it for our workshop
 - [Reference Sheet](https://hectorenevarez.github.io/AIClubWorkshops/Workshop3/reference) This reference sheet goes over all the pandas functions we used in depth for better understanding during the workshop
 
-### Let's get started with the workshop!
-This workshop is broken down into two parts
-- [Part 1](https://hectorenevarez.github.io/AIClubWorkshops/Workshop3/pandas_tutorial): For this first part we will go into a very introductory tutorial on pandas that will prepare us enough to begin cleaning our data
-- [Part 2](https://colab.research.google.com/notebooks/intro.ipynb): In this part we will be coding from scratch how to clean the data
-
 ### Code used in the workshop
-- [Data Cleaning](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/workshop3-cleaningData/data-cleaning.py): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+- [Data Cleaning](https://colab.research.google.com/drive/1jomd9YD5EFm4IEM7wD_HQieZtDIXuFnF?usp=sharing): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 4 (Data Science 2)
 This is the second part of our data science multi-week workshop. In this workshop we will be going over how to plot our data and analyze for our model building
