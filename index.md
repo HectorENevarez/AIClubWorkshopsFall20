@@ -79,10 +79,10 @@ This is the second part of our data science multi-week workshop. In this worksho
 ### Let's get Started with the workshop!
 - [Numpy](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/plt_sns_tut#Numpy) First we're going to go over the numpy library to become familiar with numpy arrays
 - [Matplotlib](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/plt_sns_tut#Matplotlib) Next, we'll go over matplotlibs pyplot module in order to develop an understanding for how we'll use our data to perform exploratory data anlysis
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) Finally we will analyze our data using both numpy and matplotlib in order to create graphs that will help us understand relationships between our data
+- [Google Colab](https://colab.research.google.com/drive/1PH5IKXM3pYrjTFtdT-BQblCCsozVbiPn?usp=sharing) Finally we will analyze our data using both numpy and matplotlib in order to create graphs that will help us understand relationships between our data
 
 ### Code Used in this workshop
-- [Explortatory Data Analysis](https://hectorenevarez.github.io/AIClubWorkshops/Workshop4/eda): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+- [Explortatory Data Analysis](https://colab.research.google.com/drive/1Jnv9y4Vi2tIEvQclH2K6JHBMYJrf8FRh?usp=sharing): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 5 (Data Science 3)
 This is the third and final part to the data science multi-week project. In this workshop we will do create the train and test the models
