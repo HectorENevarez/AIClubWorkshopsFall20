@@ -92,19 +92,17 @@ This is the third and final part to the data science multi-week project. In this
  
 ### Resources used
  - Pandas
- - Matplotlib
- - Numpy
  - Sklearn
- - [Reference Sheet]()
+ - Pickly
+ - [Reference Sheet](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/reference)
  
 ### Let's get started with the workshop
  - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
- - [Linear Regression](https://docs.google.com/presentation/d/1OE7mU9YThVaxI2YEwmZIL_7L9zrPfVJuMC2NchNdzqw/edit?usp=sharing)
- - [Lasso Regression](google.com)
+ - [Support Vector Regressor](google.com)
  - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
  
 ### Code Used in this workshop
- - [Model Building](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/modelbuilding): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
+ - [Model Building](https://colab.research.google.com/drive/1-I8pxFQLq1IfOKyKOvHQpGH09rZ4saYv?usp=sharing): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 6 (Computer Vision 1)
 This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
