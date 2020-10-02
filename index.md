@@ -97,7 +97,7 @@ This is the third and final part to the data science multi-week project. In this
  - [Reference Sheet](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/reference)
  
 ### Let's get started with the workshop
- - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+ - [Google Colab](https://colab.research.google.com/drive/1w5YDrzYwqf0ST93rYXVD5yqXrOefgwx1?usp=sharing)
  - [Support Vector Regressor](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/reference#Support-Vector-Regression)
  - [Random Forest](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/reference#Random-Forest-Regressor)
  
