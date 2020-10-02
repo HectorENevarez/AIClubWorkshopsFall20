@@ -98,8 +98,8 @@ This is the third and final part to the data science multi-week project. In this
  
 ### Let's get started with the workshop
  - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
- - [Support Vector Regressor](google.com)
- - [Random Forest](https://docs.google.com/presentation/d/1k7ZIhzCLB-C0TVyiBadRUIlthqWuctoAV3BWcTUBtbQ/edit?usp=sharing)
+ - [Support Vector Regressor](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/reference#Support-Vector-Regression)
+ - [Random Forest](https://hectorenevarez.github.io/AIClubWorkshops/Workshop5/reference#Random-Forest-Regressor)
  
 ### Code Used in this workshop
  - [Model Building](https://colab.research.google.com/drive/1-I8pxFQLq1IfOKyKOvHQpGH09rZ4saYv?usp=sharing): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
