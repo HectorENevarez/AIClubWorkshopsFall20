@@ -126,7 +126,7 @@ In this workshop we will be going over the basic functions of opencv
 
 ### Activity
 - In this activity we will be detecting objects on an image through the use of various built in opencv functions
-- [Click here](https://colab.research.google.com) to be taken to google colab in order to get started
+- [Click here](https://colab.research.google.com/drive/1rl4b77HcGTyPSZIG_Nsnu_s6qfWxysUa?usp=sharing) to be taken to google colab in order to get started
 
 ### Code Used
 - [Object Detection](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/object_detection) This is the script we coded during this workshop just incase you need to look over it after the workshop 
