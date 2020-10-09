@@ -115,7 +115,7 @@ In this workshop we will be going over the basic functions of opencv
 - imutils
 - matplotlib
 - [Tetris Image](https://github.com/HectorENevarez/AIClubWorkshops/blob/master/Workshop6-Opencv/tetris_blocks.png)
-- [Reference Sheet](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/Reference)
+- [Reference Sheet](https://colab.research.google.com/drive/1WragbmteUW2Z35qed4ydgMRGT9s2jEci?usp=sharing)
 
 ### Beginner opencv tutorial summary:
 - Loading images
