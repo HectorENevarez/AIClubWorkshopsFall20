@@ -12,7 +12,7 @@
 - [Workshop 6 (Computer Vision 1)](#workshop-6-computer-vision-1)
 - [Workshop 7 (Computer Vision 2)](#workshop-7-computer-vision-2)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Workshop 1
 ### Python Introduction
