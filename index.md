@@ -10,9 +10,9 @@
 - [Workshop 4 (Data Science 2)](#workshop-4-data-science-2)
 - [Workshop 5 (Data Science 3)](#workshop-5-data-science-3)
 - [Workshop 6 (Computer Vision 1)](#workshop-6-computer-vision-1)
-- [Workshop 7 (Computer Vision 2)](#workshop-7-computer-vision-2)
+- [Workshop 7(Computer Vision 2)](#workshop-7-computer-vision-2-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Workshop 1
 ### Python Introduction
