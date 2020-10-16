@@ -10,6 +10,7 @@
 - [Workshop 4 (Data Science 2)](#workshop-4-data-science-2)
 - [Workshop 5 (Data Science 3)](#workshop-5-data-science-3)
 - [Workshop 6 (Computer Vision 1)](#workshop-6-computer-vision-1)
+- [Workshop 7 (Computer Vision 3)](#workshop-7-computer-vision-2)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
@@ -105,7 +106,7 @@ This is the third and final part to the data science multi-week project. In this
  - [Model Building](https://colab.research.google.com/drive/1-I8pxFQLq1IfOKyKOvHQpGH09rZ4saYv?usp=sharing): This will take you to the python script we coded during this workshop just incase you need to look over it after the workshop
 
 # Workshop 6 (Computer Vision 1)
-This is the first part of a 3 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
+This is the first part of a 4 week-long computer vision workshop. In this workshop we will go over the basics of using opencv for image processing.
 ### Opencv basic tutorial
 In this workshop we will be going over the basic functions of opencv
 - [Opencv Workshop](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/opencv_tut)
@@ -130,3 +131,14 @@ In this workshop we will be going over the basic functions of opencv
 
 ### Code Used
 - [Object Detection](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/object_detection) This is the script we coded during this workshop just incase you need to look over it after the workshop 
+
+# workshop 7(Computer Vision 2)
+This is the second part of the computer vision workshop. In this workshop we will expand our knowledge of OpenCV and work with real-time video. We will be creating an application that can track motion allow us to draw by using our webcam.
+
+### Resources Used
+- OpenCV
+- Numpy
+- [Reference Sheet](https://colab.research.google.com/drive/169rZ0wjf-pIuU2IavLbeZ4doOQn0tHsP)
+
+### Code Used
+[AirDraw explained](https://colab.research.google.com/drive/1FPH8VNcsJqw15G2IcK4J7DX0ANtbb8hH)
