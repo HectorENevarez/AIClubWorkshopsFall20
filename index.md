@@ -132,7 +132,7 @@ In this workshop we will be going over the basic functions of opencv
 ### Code Used
 - [Object Detection](https://hectorenevarez.github.io/AIClubWorkshops/Workshop6/object_detection) This is the script we coded during this workshop just incase you need to look over it after the workshop 
 
-# workshop 7(Computer Vision 2)
+# Workshop 7(Computer Vision 2)
 This is the second part of the computer vision workshop. In this workshop we will expand our knowledge of OpenCV and work with real-time video. We will be creating an application that can track motion allow us to draw by using our webcam.
 
 ### Resources Used
