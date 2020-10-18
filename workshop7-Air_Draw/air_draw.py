@@ -1,80 +1,72 @@
-#credit to https://www.youtube.com/watch?v=BDyhyQ1qjBY
-
-import cv2
+import cv2 #imports
 import numpy as np
+import time
 
-#global
-x,y,k = 200,200,-1
+x_pos, y_pos, point_selected = 0, 0, False #Setting global variables
 
-def take_inp(event, x1, y1, flag, param):
-    global x, y, k
+def starting_point(event, x_clicked, y_clicked, flag, param):
+    global x_pos, y_pos, point_selected #getting global variabels
     if event == cv2.EVENT_LBUTTONDOWN:
-        x = x1
-        y = y1
-        k = 1
+        x_pos = x_clicked #Updating variables at clicked location
+        y_pos = y_clicked
+        point_selected = True
 
-cv2.namedWindow("enter_point")
-cv2.setMouseCallback("enter_point", take_inp)
-cap = cv2.VideoCapture(0)
+cv2.namedWindow('enter_point') #Linking window and function to left click action
+cv2.setMouseCallback('enter_point', starting_point)
+
+cap = cv2.VideoCapture(0) #Starting video capture
 
 while True:
-     
-    _, inp_img = cap.read()
-    inp_img = cv2.flip(inp_img, 1)
-    gray_inp_img = cv2.cvtColor(inp_img, cv2.COLOR_BGR2GRAY)
+    _, pre_img = cap.read() 
+    pre_img = cv2.flip(pre_img, 1) #Flip image
+    gray_pre_img = cv2.cvtColor(pre_img, cv2.COLOR_BGR2GRAY) #Conver to gray for algorithm used
     
-    cv2.imshow("enter_point", inp_img)
-    
-    if k == 1 or cv2.waitKey(30) == 27:
+    cv2.imshow("enter_point", pre_img)
+    if point_selected == True or cv2.waitKey(1) == 27:
+        
         cv2.destroyAllWindows()
         break
 
-stp = 0
+#Setting up format of points
+old_pts = np.array([[x_pos, y_pos]], dtype=np.float32)
+mask = np.zeros_like(pre_img) #Set black mask
 
-old_pts = np.array([[x, y]], dtype=np.float32).reshape(-1,1,2)
-mask = np.zeros_like(inp_img)
+time_end = time.time() + 5 # 5 second timer
 
-while True:
-    _, new_inp_img = cap.read()
-    new_inp_img = cv2.flip(new_inp_img, 1)
-    new_gray = cv2.cvtColor(new_inp_img, cv2.COLOR_BGR2GRAY)     
-    new_pts,status,err = cv2.calcOpticalFlowPyrLK(gray_inp_img, 
-                         new_gray, 
+while time.time() < time_end:
+    _, inp_img = cap.read()
+    inp_img = cv2.flip(inp_img, 1)
+    gray_inp_img = cv2.cvtColor(inp_img, cv2.COLOR_BGR2GRAY)
+
+    #Below is the algorithm we use to detect movement detection
+    new_pts,status,err = cv2.calcOpticalFlowPyrLK(gray_pre_img, 
+                         gray_inp_img, 
                          old_pts, 
-                         None, maxLevel=1,
-                         criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT,
-                                                         15, 0.08))
+                         None)
+    print(status,err)
+    x,y = new_pts.ravel() #Seperate points from array
+    a,b = old_pts.ravel()
 
-    for i, j in zip(old_pts, new_pts):
-        x,y = j.ravel()
-        a,b = i.ravel()
-        if cv2.waitKey(2) & 0xff == ord('p'):
-            stp = 1
-            
-        elif cv2.waitKey(2) & 0xff == ord('w'):
-            stp = 0
-        
-        elif cv2.waitKey(2) == ord('n'):
-            mask = np.zeros_like(new_inp_img)
-            
-        if stp == 0:
-            mask = cv2.line(mask, (a,b), (x,y), (255,255,255), 10) #Color of line
+    mask = cv2.line(mask, (a,b), (x,y), (255,255,255), 20) #Draw line connecting new and old points
 
-        cv2.circle(new_inp_img, (x,y), 6, (0,255,0), -1)
-    
-    new_inp_img = cv2.addWeighted(mask, 0.3, new_inp_img, 0.7, 0)
-    cv2.putText(new_inp_img, "'p' to gap 'w' - start 'n' - clear", (10,50), 
-                cv2.FONT_HERSHEY_PLAIN, 2, (255,255,255))
-    cv2.imshow("ouput", new_inp_img)
+    cv2.circle(inp_img, (x,y), 6, (0,255,0), -1) #Circle for user guidance
+
+    inp_img = cv2.addWeighted(mask, 0.3, inp_img, 0.7, 0) #Blends images
+    cv2.imshow("output", inp_img) #Displaying images
     cv2.imshow("result", mask)
 
-    
-    gray_inp_img = new_gray.copy()
-    old_pts = new_pts.reshape(-1,1,2)
-    
-    if cv2.waitKey(1) & 0xff == 27:
-        cv2.imwrite('Test.png', mask)
-        break
+    gray_pre_img = gray_inp_img.copy() #Updating values for next loop
+    old_pts = new_pts
 
-cv2.destroyAllWindows()
+    if cv2.waitKey(1) == 27: #If esc pressed quit
+        break
+    
+cv2.imwrite('Test.png', mask) #Saves mask image
+cv2.destroyAllWindows
 cap.release()
+
+
+'''
+This code was inspired by https://www.youtube.com/watch?v=BDyhyQ1qjBY. The same algorithm and structure
+are used in this code with my own unique implementations
+'''
