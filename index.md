@@ -141,5 +141,5 @@ This is the second part of the computer vision workshop. In this workshop we wil
 - [Reference Sheet](https://colab.research.google.com/drive/169rZ0wjf-pIuU2IavLbeZ4doOQn0tHsP)
 
 ### Code Used
-[AirDraw explained](https://colab.research.google.com/drive/1FPH8VNcsJqw15G2IcK4J7DX0ANtbb8hH)
+[AirDraw explained](https://colab.research.google.com/drive/1FPH8VNcsJqw15G2IcK4J7DX0ANtbb8hH)<br>
 [AirDraw Code Complete](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop7/air_draw.py)
