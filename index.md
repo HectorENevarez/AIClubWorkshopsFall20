@@ -11,6 +11,7 @@
 - [Workshop 5 (Data Science 3)](#workshop-5-data-science-3)
 - [Workshop 6 (Computer Vision 1)](#workshop-6-computer-vision-1)
 - [Workshop 7 (Computer Vision 2)](#workshop-7-computer-vision-2)
+- [Workshop 8 (Computer Vision 3)](#workshop-8-computer-vision-3)
 
 
 
@@ -143,3 +144,21 @@ This is the second part of the computer vision workshop. In this workshop we wil
 ### Code Used
 [AirDraw explained](https://colab.research.google.com/drive/1FPH8VNcsJqw15G2IcK4J7DX0ANtbb8hH)<br>
 [AirDraw Code Complete](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop7/air_draw.py)
+
+# Workshop 8 (Computer Vision 3)
+This is the third and final part of our computer vision workshops. In this workshop we will be learning about neural networks. We will apply our knowledge of neural networks to accurately predict numbers that were drawing using the air draw application we created last week
+
+### Resources Used
+- Tensorflow
+- Keras
+- Matplotlib
+
+### Neural Network introduction
+- [Neural Networks](https://colab.research.google.com/drive/1Zqr0T2tMR10vXRl2LhK8dz2yZFD2f-hD?usp=sharing)
+
+### Activity
+- We wil be creating a neural network and train it on the MNIST dataset in order to accurately predict hand written numbers
+- [Click Here](https://colab.research.google.com/drive/1nfcOd-0HGci9XwfXmwGN9gxO5P9Z7X11?usp=sharing) to begin the activity
+
+### Code Used
+[MNIST model building]()
