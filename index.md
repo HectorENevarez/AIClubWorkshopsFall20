@@ -146,7 +146,7 @@ This is the second part of the computer vision workshop. In this workshop we wil
 [AirDraw Code Complete](https://github.com/HectorENevarez/AIClubWorkshops/blob/gh-pages/Workshop7/air_draw.py)
 
 # Workshop 8 (Computer Vision 3)
-This is the third and final part of our computer vision workshops. In this workshop we will be learning about neural networks. We will apply our knowledge of neural networks to accurately predict numbers that were drawing using the air draw application we created last week
+This is the third and final part of our computer vision workshops. In this workshop we will be learning about neural networks and creating a neural network that can be trained to recognize hand written numbers
 
 ### Resources Used
 - Tensorflow
