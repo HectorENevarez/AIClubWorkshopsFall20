@@ -161,4 +161,4 @@ This is the third and final part of our computer vision workshops. In this works
 - [Click Here](https://colab.research.google.com/drive/1nfcOd-0HGci9XwfXmwGN9gxO5P9Z7X11?usp=sharing) to begin the activity
 
 ### Code Used
-[MNIST model building]()
+[MNIST model building](https://colab.research.google.com/drive/1_dXwSA4kGFTma-pcCVd5OLPval-dAaSr?usp=sharing)
