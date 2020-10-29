@@ -12,6 +12,7 @@
 - [Workshop 6 (Computer Vision 1)](#workshop-6-computer-vision-1)
 - [Workshop 7 (Computer Vision 2)](#workshop-7-computer-vision-2)
 - [Workshop 8 (Computer Vision 3)](#workshop-8-computer-vision-3)
+- [Workshop 9 (K means clustering)](#workshop-9-K-means-clustering)
 
 
 
@@ -162,3 +163,23 @@ This is the third and final part of our computer vision workshops. In this works
 
 ### Code Used
 [MNIST model building](https://colab.research.google.com/drive/1_dXwSA4kGFTma-pcCVd5OLPval-dAaSr?usp=sharing)
+
+# Workshop 9 (K means clustering)
+In this workshop we will be going over unsupervised learning. We will then learn a clustering machine learning model and use it in order to cluster different types of shoppers in a mall.
+
+### Resources Used
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit Learn
+
+### Neural Network introduction
+- [K-means Clustering Introduction](https://colab.research.google.com/drive/1HP6Il2fZ3N90ZrumVOPNOVl_RgiFvg2-?usp=sharing)
+
+### Activity
+- We will be implementing K-means to cluster different types of mall shoppers
+- [Click Here](https://colab.research.google.com/drive/1bViGVwEg1K1tdnNmG2GjS7JKin8Xn5yQ?usp=sharing) to begin the activity
+
+### Code Used
+- [K-means](https://colab.research.google.com/drive/11buFc9fokEiInMTvjVz2eR7wJOEyDAmF?usp=sharing)
+
