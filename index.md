@@ -13,8 +13,7 @@
 - [Workshop 7 (Computer Vision 2)](#workshop-7-computer-vision-2)
 - [Workshop 8 (Computer Vision 3)](#workshop-8-computer-vision-3)
 - [Workshop 9 (K means clustering)](#workshop-9-K-means-clustering)
-
-
+- [Workshop 10 (Convolutional Neural Network)](#workshop-10-convolutional-neural-network)
 
 # Workshop 1
 ### Python Introduction
@@ -183,3 +182,21 @@ In this workshop we will be going over unsupervised learning. We will then learn
 ### Code Used
 - [K-means](https://colab.research.google.com/drive/11buFc9fokEiInMTvjVz2eR7wJOEyDAmF?usp=sharing)
 
+# Workshop 10 (Convolutional Neural Network)
+In this workshop I will be introducing Convolutional Neural Networks. To do so we will first go over the theory of how a CNN is structured and after we will have a live coding session where we try and classify different types of objects using the Cifar-10 dataset.
+
+### Resources Used
+- Tensorflow
+- Keras
+- Numpy
+- Matplotlib
+
+### Neural Network introduction
+- [Convolutional Neural Networks](https://colab.research.google.com/drive/1zAN-HhsZmBr3suZWHgAlYBytzyxSpkQH?usp=sharing)
+
+### Activity
+- We wil be creating a Convolutional Neural Network and train it on the Cifar-10 dataset in order to accurately predict different objects
+- [Click Here](https://colab.research.google.com/drive/1ywNVfge-1fus9zseiueP0UlBnzrKHTtw?usp=sharing) to begin the activity
+
+### Code Used
+[Convolutional Neural Network applied to Cifar-10](https://colab.research.google.com/drive/1pJlxubM7SIAyWFy9AKGW6lLyNXeMQ3nW?usp=sharing)
