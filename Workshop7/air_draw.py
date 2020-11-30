@@ -64,9 +64,3 @@ while time.time() < time_end:
 cv2.imwrite('Test.png', mask) #Saves mask image
 cv2.destroyAllWindows
 cap.release()
-
-
-'''
-This code was inspired by https://www.youtube.com/watch?v=BDyhyQ1qjBY. The same algorithm and structure
-are used in this code with my own unique implementations
-'''
