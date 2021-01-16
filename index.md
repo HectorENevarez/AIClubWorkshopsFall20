@@ -1,6 +1,6 @@
 # General Information
 - For more information regarding our club please visit the official [SDSU AI Club webstite](https://aiclub.sdsu.edu/)
-- For further information regarding the workshops you can contact me through my email: <hnevarez1285@outlook.com>
+- For further information regarding the workshops you can contact me through my email: <hnevarez1285@sdsu.edu>
 - For general club questions you can contact our club email: <sdsuaiclub@gmail.com>
 
 # Table of Contents
