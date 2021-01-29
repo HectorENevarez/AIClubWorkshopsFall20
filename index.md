@@ -131,7 +131,7 @@ In this workshop we will be going over the basic functions of opencv
 - [Click here](https://colab.research.google.com/drive/1rl4b77HcGTyPSZIG_Nsnu_s6qfWxysUa?usp=sharing) to be taken to google colab in order to get started
 
 ### Code Used
-- [Object Detection](https://github.com/HectorENevarez/AIClubWorkshopsFall20/blob/master/workshop7-Air_Draw/air_draw.py) This is the script we coded during this workshop just incase you need to look over it after the workshop 
+- [Object Detection](https://github.com/HectorENevarez/AIClubWorkshopsFall20/blob/master/Workshop6-Opencv/object_detect.ipynb) This is the script we coded during this workshop just incase you need to look over it after the workshop 
 
 # Workshop 7 (Computer Vision 2)
 This is the second part of the computer vision workshop. In this workshop we will expand our knowledge of OpenCV and work with real-time video. We will be creating an application that can track motion allow us to draw by using our webcam.
@@ -143,7 +143,7 @@ This is the second part of the computer vision workshop. In this workshop we wil
 
 ### Code Used
 [AirDraw explained](https://colab.research.google.com/drive/1FPH8VNcsJqw15G2IcK4J7DX0ANtbb8hH)<br>
-[AirDraw Code Complete](https://hectorenevarez.github.io/AIClubWorkshopsFall20/blob/gh-pages/Workshop7/air_draw.py)
+[AirDraw Code Complete](https://github.com/HectorENevarez/AIClubWorkshopsFall20/blob/master/workshop7-Air_Draw/air_draw.py)
 
 # Workshop 8 (Computer Vision 3)
 This is the third and final part of our computer vision workshops. In this workshop we will be learning about neural networks and creating a neural network that can be trained to recognize hand written numbers
